@@ -18,9 +18,6 @@ The RNA-seq expression data of TCGA-LUAD dataset downloaded and preprocessed to 
 To test the generalization capability of the deep learning model, the ICGC-LUAD  dataset used. It contains 488 lung cancer samples and 55 normal samples. For each sample, the ICGC-LUAD dataset lists the RNA seq counts of 20502 genes. 
 The list of common genes between TCGA-LUAD and ICGC-LUAD datasets computed and subsets of both datasets with only the common genes were constructed. The common-genes subset of TCGA-LUAD dataset is used to train and evaluate the DL model.
 
-## Demo
-*Run `Project.mp4`*
-
 # Download TCGA-LUAD dataset
 **Refer to https://www.youtube.com/watch?v=YJxcsm4aJXI**
 
